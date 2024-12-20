@@ -302,7 +302,7 @@ class Cli {
   // Example method to handle truck actions
   performTruckActions(truck: Vehicle): void {
     // Placeholder for truck-specific actions
-    console.log("Performing actions for the truck...");
+    this.performActions();
   }
   
 
