@@ -5,9 +5,6 @@
 ## Table of Contents
 - [Description](#description)
 - [Installation Instructions](#installation-instructions)
-- [Usage Information](#usage-information)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Test Instructions](#test-instructions)
 - [License](#license)
 - [Questions](#questions)
 
@@ -15,16 +12,7 @@
 A program in which you can create vehicles and store them or perform certain actions with them.
 
 ## Installation Instructions
-In the terminal, run "bun i" or "npm i" and then run "bun run start" or "npm run start"
-
-## Usage Information
-
-
-## Contribution Guidelines
-
-
-## Test Instructions
-
+In the terminal, run "bun i" or "npm i" and then run "bun run start" or "npm run start" 
 
 ## License
 This application is covered under the MIT license.
